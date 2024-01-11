@@ -1,4 +1,4 @@
-What was done:
+What were done:
 
 - manipulate file input and output
 - read from CSV
